@@ -1,0 +1,12 @@
+Rasterization.pdf
+Rasterizer.pdf
+
+*.user
+.vs
+x64
+app/x64
+renderer/x64
+scene/x64
+
+app/imgui.ini
+dev stage screenshots/

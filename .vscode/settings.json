@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "*.rh": "cpp",
+        "xiosbase": "cpp",
+        "glad.h": "c",
+        "vector": "cpp",
+        "chrono": "cpp",
+        "complex": "cpp",
+        "*.tcc": "cpp",
+        "string": "cpp",
+        "thread": "cpp",
+        "cmath": "cpp"
+    }
+}
