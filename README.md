@@ -31,7 +31,7 @@ make -j && ./Rasterizer
 Affiche un triangle coloré en utilisant les coordonnées baricentrique.
 
 ![png](./screenshots/Scene1.png)
-
+ 
 -----
 
 ## **Scene 2**
